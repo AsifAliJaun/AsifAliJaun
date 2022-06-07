@@ -2,7 +2,7 @@
 <h3 align="center">INTERESTED IN LEARNING ARTIFICIAL INTELLIGENCE.</h3>
 
 
-- 🔭 I’m currently working on **FULL STACK DEVELOPMENT**
+- 🔭 I’m currently working on **FULL STACK DEVELOPMENT(REACTJS ,SPRINGBOOT**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
