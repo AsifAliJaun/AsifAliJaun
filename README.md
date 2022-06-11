@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.svg" width="10px">
+<img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="10px">
 
 # Hi 👋, I am ASIF ALI DAR
 
