@@ -1,11 +1,4 @@
 
-<div align="center">
-	<br>
-	<a href="https://github.com/AsifAliJaun/AsifAliJaun/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
 <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="10px">
 
 # Hi 👋, I am ASIF ALI DAR
