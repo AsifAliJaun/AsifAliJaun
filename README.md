@@ -1,5 +1,5 @@
 
-# Hi 👋, I am ASIF ALI DAR<img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="10px">
+# Hi 👋, I am ASIF ALI DAR<img src="https://giphy.com/gifs/cute-hi-oh-l0FF56cexcW2JAXCJj" style="width:10%;height:0;padding-bottom:100%;position:relative;"
 
 <h3 align="center">INTERESTED IN LEARNING ARTIFICIAL INTELLIGENCE.</h3>
 
