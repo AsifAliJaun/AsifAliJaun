@@ -1,5 +1,4 @@
-<h1>
-# Hi 👋, I am ASIF ALI DAR
+<h1 align="center"># Hi 👋, I am ASIF ALI DAR</h1>
 
 <h3 align="center">INTERESTED IN LEARNING ARTIFICIAL INTELLIGENCE.</h3>
 
