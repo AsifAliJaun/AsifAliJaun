@@ -33,8 +33,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ## Stats
-![Some github stats](https://github-readme-stats.vercel.app/api?username=just-dev-creator&show_icons=true&count_private=true&theme=dracula)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-dev-creator&theme=dracula&exclude_repo=just-dev-creator.github.io&langs_count=7)
+![Some github stats](https://github-readme-stats.vercel.app/api?username=AsifAliJaun&show_icons=true&count_private=true&theme=dracula)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAliJaun&theme=dracula&exclude_repo=https://asifalijaun.github.io/asifpersonal&langs_count=7)
 
 
 <p align="center">
