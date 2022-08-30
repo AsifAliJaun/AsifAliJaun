@@ -1,7 +1,10 @@
-
+<h1>
+# Hi 👋, I am ASIF ALI DAR
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="10px">
 
-# Hi 👋, I am ASIF ALI DAR
+
 
 <h3 align="center">INTERESTED IN LEARNING ARTIFICIAL INTELLIGENCE.</h3>
 
@@ -38,5 +41,12 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-dev-creator&theme=dracula&exclude_repo=just-dev-creator.github.io&langs_count=7)
 
 
-
+<p align="center">
+    Show ❤️ by starring repositories you find good! 
+    <br />
+    ⭐️ From [Asif Ali Dar](https://github.com/AsifAliJaun)
+    <br />
+    Also, star and fork this repository if you wish to give this new feature a try!
+  </p>
+</p>
 
