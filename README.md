@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-     <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="40" height="40"/></a>
+     <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
    <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" />
