@@ -43,9 +43,9 @@
 
 
 <p align="center">
-    Show ❤️ by starring repositories you find good! 
+    Show ❤️ by staring repositories you find good! 
     <br />
-    ⭐️ From [Asif Ali Dar](https://github.com/AsifAliJaun)
+     ❤️ From [Asif Ali Dar](https://github.com/AsifAliJaun)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
