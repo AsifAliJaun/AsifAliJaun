@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I am ASIF ALI DAR</h1> <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150px">
 
-<h3 align="center">INTERESTED IN LEARNING ARTIFICIAL INTELLIGENCE.</h3>
+<h3 align="center">INTERESTED IN LEARNING MACHINE LEARNING.</h3>
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=AsifAliJaun&label=Profile%20views&color=0e75b6&style=flat" alt="AsifAli" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
     <img  src="https://profile-counter.glitch.me/AsifAliJaun/count.svg" alt="animationbro" />
 
