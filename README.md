@@ -60,14 +60,51 @@ public class HelloWorld {
 ![](https://github-profile-trophy.vercel.app/?username=AsifAliJaun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-
-
-
 ##  Daily Motivation
 <img src="https://github.com/AsifAliJaun/AsifAliJaun/assets/66583558/4ed44ae0-be91-4e8c-947c-2aa5113ccd4e" alt="image" width="50" height="50">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## GitHub Gist of the Day
+
+<!-- Gist Embed of a random GitHub Gist each day -->
+<script src="https://gist.github.com/your-gist-id.js"></script>
+
+## Programming Jokes
+
+<!-- Add JavaScript code to fetch and display a random programming joke from JokeAPI -->
+<script>
+  // Function to fetch a random programming joke from JokeAPI
+  async function getRandomJoke() {
+    const response = await fetch("https://v2.jokeapi.dev/joke/Programming?type=single");
+    const data = await response.json();
+    const joke = data.joke;
+    return joke;
+  }
+  
+  // Display the random programming joke
+  getRandomJoke().then((joke) => {
+    document.write(joke);
+  });
+</script>
+
+## Motivational Quote
+
+<!-- Add JavaScript code to fetch and display a random motivational quote from They Said So Quotes API -->
+<script>
+  // Function to fetch a random motivational quote from They Said So Quotes API
+  async function getRandomMotivationalQuote() {
+    const response = await fetch("https://quotes.rest/qod?category=inspire");
+    const data = await response.json();
+    const quote = data.contents.quote;
+    return quote;
+  }
+  
+  // Display the random motivational quote
+  getRandomMotivationalQuote().then((quote) => {
+    document.write(quote);
+  });
+</script>
 
 
 
