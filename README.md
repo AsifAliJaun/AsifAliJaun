@@ -59,8 +59,7 @@ public class HelloWorld {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AsifAliJaun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Recent Activity
-![](https://activity-graph.herokuapp.com/graph?username=AsifAliJaun&theme=github)
+
 
 
 
