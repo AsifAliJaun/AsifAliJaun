@@ -41,6 +41,7 @@
   
   ## 📊 GitHub Stats:
 ![Some github stats](https://github-readme-stats.vercel.app/api?username=AsifAliJaun&show_icons=true&count_private=true&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsifAliJaun&theme=dark&hide_border=false)<br/>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAliJaun&theme=dracula&exclude_repo=https://asifalijaun.github.io/asifpersonal&langs_count=7)
 
 
