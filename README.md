@@ -60,7 +60,7 @@ public class HelloWorld {
 ![](https://github-profile-trophy.vercel.app/?username=AsifAliJaun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Recent Activity
-![Recent Activity](https://activity-graph.herokuapp.com/graph?username=AsifAliJaun&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=AsifAliJaun&theme=github)
 
 
 
