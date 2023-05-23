@@ -58,6 +58,13 @@ public class HelloWorld {
 ![](https://github-profile-trophy.vercel.app/?username=AsifAliJaun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+## ![image](https://github.com/AsifAliJaun/AsifAliJaun/assets/66583558/4ed44ae0-be91-4e8c-947c-2aa5113ccd4e)
+ Daily Motivation
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
 <p align="center">
     Show ❤️ by staring repositories you find good! 
     <br />
