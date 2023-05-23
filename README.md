@@ -60,6 +60,7 @@ public class HelloWorld {
 
 ##  Daily Motivation
 <img src="https://github.com/AsifAliJaun/AsifAliJaun/assets/66583558/4ed44ae0-be91-4e8c-947c-2aa5113ccd4e" alt="image" width="50" height="50">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
