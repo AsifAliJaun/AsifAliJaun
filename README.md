@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of your GitHub README with programming jokes and motivational quotes:
-
-```markdown
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="120px"> I am Asif Ali Dar</h1> 
 
 ```Java
@@ -43,9 +40,7 @@ public class HelloWorld {
   
 <p align="left"> 
      <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
-   <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/w
-
-ikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="csharp" width="40" height="40"/> </a>
+   <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" />
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -53,55 +48,11 @@ ikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming
     <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="python" width="80" height="40"/> </a> </p>
   <a href="https://www.mysql.com/" target="blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mySql" width="40" height="40"/></a>
-
-
-## Programming Jokes
-
-<!-- Add JavaScript code to fetch and display a random programming joke from JokeAPI -->
-<script>
-  // Function to fetch a random programming joke from JokeAPI
-  async function getRandomProgrammingJoke() {
-    const response = await fetch("https://v2.jokeapi.dev/joke/Programming?type=single");
-    const data = await response.json();
-    const joke = data.joke;
-    return joke;
-  }
   
-  // Display the random programming joke
-  getRandomProgrammingJoke().then((joke) => {
-    document.getElementById("programming-joke").textContent = joke;
-  });
-</script>
-
-<!-- HTML element to display the random programming joke -->
-<p id="programming-joke"></p>
-
-## Motivational Quotes
-
-<!-- Add JavaScript code to fetch and display a random motivational quote from They Said So Quotes API -->
-<script>
-  // Function to fetch a random motivational quote from They Said So Quotes API
-  async function getRandomMotivationalQuote() {
-    const response = await fetch("https://quotes.rest/qod?category=inspire");
-    const data = await response.json();
-    const quote = data.contents.quote;
-    return quote;
-  }
   
-  // Display the random motivational quote
-  getRandomMotivationalQuote().then((quote) => {
-    document.getElementById("motivational-quote").textContent = quote;
-  });
-</script>
-
-<!-- HTML element to display the random motivational quote -->
-<p id="motivational-quote"></p>
-
-## 📊 GitHub Stats:
+  ## 📊 GitHub Stats:
 ![Some github stats](https://github-readme-stats.vercel.app/api?username=AsifAliJaun&show_icons=true&count_private=true&theme=dracula)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsifAliJaun&theme=
-
-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsifAliJaun&theme=dark&hide_border=false)<br/>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAliJaun&theme=dracula&exclude_repo=https://asifalijaun.github.io/asifpersonal&langs_count=7)
 
 
@@ -124,8 +75,4 @@ dark&hide_border=false)<br/>
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
 </p>
-```
 
-This updated README will display a random programming joke and a random motivational quote each time the page is loaded. Remember to replace the image links with valid URLs and make sure the JavaScript code is placed within appropriate `<script>` tags.
-
-Feel free to customize the formatting and style according to your preferences.
