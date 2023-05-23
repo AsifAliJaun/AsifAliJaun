@@ -39,10 +39,15 @@
   <a href="https://www.mysql.com/" target="blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mySql" width="40" height="40"/></a>
   
   
-  
-## Stats
+  ## 📊 GitHub Stats:
 ![Some github stats](https://github-readme-stats.vercel.app/api?username=AsifAliJaun&show_icons=true&count_private=true&theme=dracula)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAliJaun&theme=dracula&exclude_repo=https://asifalijaun.github.io/asifpersonal&langs_count=7)
+![](https://github-readme-stats.vercel.app/api?username=AsifAliJaun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsifAliJaun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAliJaun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AsifAliJaun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
