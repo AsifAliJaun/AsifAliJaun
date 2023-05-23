@@ -32,13 +32,9 @@ public class HelloWorld {
 <a href="https://www.facebook.com/ishu.zainab.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif ali fb" height="30" width="40" /></a> 
 
 
-## Visitor Location Map
-
-![Visitor Location Map](https://github-readme-visitor-map.herokuapp.com/?username=your-username)
 
 
-    
-    
+      
     
 <h3 align="left">Languages and Tools:</h3>
   
@@ -62,6 +58,10 @@ public class HelloWorld {
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AsifAliJaun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Recent Activity
+![Recent Activity](https://activity-graph.herokuapp.com/graph?username=AsifAliJaun&theme=github)
+
 
 
 ##  Daily Motivation
