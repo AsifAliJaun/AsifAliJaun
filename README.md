@@ -21,19 +21,28 @@
 <a href="https://www.instagram.com/asif_ali_jaun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_ali_jaun" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/asif-ali-dar-24162b1a0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="80"/></a>
 <a href="https://www.facebook.com/ishu.zainab.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif ali fb" height="30" width="40" /></a> 
-![Java Logo](https://example.com/java-logo.png)
-![JavaScript Logo](https://example.com/javascript-logo.png)
-![HTML Logo](https://example.com/html-logo.png)
-![CSS Logo](https://example.com/css-logo.png)
-![Jackson Logo](https://example.com/jackson-logo.png)
-![React Logo](https://example.com/react-logo.png)
-![Node.js Logo](https://example.com/nodejs-logo.png)
-![AWS Logo](https://example.com/aws-logo.png)
-![C++ Logo](https://example.com/cpp-logo.png)
-![C Logo](https://example.com/c-logo.png)
-![Python Logo](https://example.com/python-logo.png)
+
+    
+    
     
 <h3 align="left">Languages and Tools:</h3>
+T
+<p align="left"> 
+     <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
+   <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+ <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40" />
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Git" width="" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python" width="80" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/></a>
+</p>
+
+
+
+
+
+
 <p align="left"> 
      <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
    <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="csharp" width="40" height="40"/> </a>
