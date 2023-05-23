@@ -84,9 +84,13 @@ public class HelloWorld {
   
   // Display the random programming joke
   getRandomJoke().then((joke) => {
-    document.write(joke);
+    document.getElementById("random-joke").textContent = joke;
   });
 </script>
+
+<!-- HTML element to display the random programming joke -->
+<p id="random-joke"></p>
+
 
 ## Motivational Quote
 
