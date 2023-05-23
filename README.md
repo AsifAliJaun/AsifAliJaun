@@ -21,8 +21,18 @@
 <a href="https://www.instagram.com/asif_ali_jaun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_ali_jaun" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/asif-ali-dar-24162b1a0/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="80"/></a>
 <a href="https://www.facebook.com/ishu.zainab.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif ali fb" height="30" width="40" /></a> 
-
-
+![Java Logo](https://example.com/java-logo.png)
+![JavaScript Logo](https://example.com/javascript-logo.png)
+![HTML Logo](https://example.com/html-logo.png)
+![CSS Logo](https://example.com/css-logo.png)
+![Jackson Logo](https://example.com/jackson-logo.png)
+![React Logo](https://example.com/react-logo.png)
+![Node.js Logo](https://example.com/nodejs-logo.png)
+![AWS Logo](https://example.com/aws-logo.png)
+![C++ Logo](https://example.com/cpp-logo.png)
+![C Logo](https://example.com/c-logo.png)
+![Python Logo](https://example.com/python-logo.png)
+    
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
