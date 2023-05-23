@@ -26,25 +26,7 @@
     
     
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-     <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
-   <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40" />
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Git" width="" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python" width="80" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://github.com/FasterXML/jackson" target="_blank"> <img src="https://raw.githubusercontent.com/FasterXML/jackson/master/jackson.svg" alt="Jackson" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://d1.awsstatic.com/Rust_logo_RGB.256x256.6f0c7b8b3ca3669ee5f449e4e68a3a67a14ab51f.png" alt="AWS" width="40" height="40"/> </a>
-</p>
-
-
-
-
-
+  
 <p align="left"> 
      <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://miro.medium.com/max/1200/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="SpringBoot" width="80" height="40"/></a>
    <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" alt="csharp" width="40" height="40"/> </a>
@@ -52,6 +34,7 @@
  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" />
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="" height="40"/> </a> 
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="python" width="80" height="40"/> </a> </p>
   <a href="https://www.mysql.com/" target="blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mySql" width="40" height="40"/></a>
   
