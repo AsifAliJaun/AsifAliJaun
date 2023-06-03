@@ -12,7 +12,7 @@ public class HelloWorld {
 ```
 
 <h3 align="center">INTERESTED IN LEARNING FULL STACK DEVELOPMENT.</h3>
-<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=AsifAliJaun&label=Profile%20views&color=0e75b6&style=flat" alt="AsifAli" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
+<p align="center"> 
     <img  src="https://profile-counter.glitch.me/AsifAliJaun/count.svg" alt="animationbro" />
 
 - 🔭 I’m currently working on **FULL STACK DEVELOPMENT(SPRINGBOOT,NODEJS and AWS)**
