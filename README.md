@@ -14,7 +14,7 @@ public class HelloWorld {
 <p align="center"> 
     <img  src="https://profile-counter.glitch.me/AsifAliJaun/count.svg" alt="animationbro" />
 
-- 🔭 I’m currently working on **FULL STACK DEVELOPMENT(SPRINGBOOT,NODEJS and AWS)**
+- 🔭 I’m currently working on **FULL STACK DEVELOPMENT(SPRINGBOOT,MERN,REACT_NATIVE and AWS)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
