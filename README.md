@@ -23,7 +23,7 @@ public class HelloWorld {
 
 - 💬 Ask me about **Full Stack Technolgies(Java and MERN)**
 
-- 📫 How to reach me **asifalizeyan1234@gmail.com**
+- 📫 Reach me **asifalizeyan1234@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
