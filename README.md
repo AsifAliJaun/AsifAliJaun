@@ -21,7 +21,7 @@ public class HelloWorld {
 - 👨‍💻 All of my projects are available at [https://github.com/AsifAliJaun](https://github.com/AsifAliJaun)
 - ✏️   My Portfolio at [https://asifalijaun.github.io/asifpersonal/](https://asifalijaun.github.io/asifpersonal/)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Full Stack Technolgies(Java and MERN)**
 
 - 📫 How to reach me **asifalizeyan1234@gmail.com**
 
