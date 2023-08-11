@@ -10,7 +10,7 @@ public class HelloWorld {
     
 ```
 
-<h3 align="center">I am a Full Stack Developer from Jammu and Kashmir.</h3>
+<h3 align="center">Full Stack Developer from Jammu and Kashmir.</h3>
 <p align="center"> 
     <img  src="https://profile-counter.glitch.me/AsifAliJaun/count.svg" alt="animationbro" />
 
